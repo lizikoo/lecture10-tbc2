@@ -1,0 +1,176 @@
+header{
+    height: 120px ;
+ }
+    
+
+.container{
+    max-width: 1400px;
+    width: 100%;
+    margin: 0 auto;
+   
+}
+
+.headerflex{
+  display: flex;
+  height: 100%;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: nowrap;
+}
+
+nav ul {
+    display: flex;
+    width: 600px;
+    justify-content:space-between;
+
+}
+li a{
+    color: #636060;
+    font-size: 17px;
+    font-family: Helvetica;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.fa-bars {
+    display: none;
+
+}
+.s-1{
+    height: 606px;
+    background-image: url(../images/photo1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 84px;
+}
+
+
+.infodiv h2{
+    color: #FFF;
+    font-size: 79px;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-align: center;
+    margin-bottom: 31px;
+}
+
+.infodiv h5{
+    color: #FFF;
+    font-size: 19px;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.section2flex{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.infobox{
+    width: 235px;
+}
+
+.infobox h4{
+    color: #636060;
+    font-size: 17px;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 9px;
+}
+.infobox h3{
+    color: #010101;
+    font-size: 28px;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 37px;
+}
+  
+.infobox p{
+    color: #636060;
+    font-size: 20px;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.cardwrapper{
+    max-width: 926px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+.card{
+    width: 286px;
+    margin-bottom: 56px;
+    margin: 0 10px;
+}
+.card img {
+    width: 100%;
+    margin-bottom: 23px;
+    
+   
+}
+.card h5{
+    color: #343232;
+    font-size: 19px;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 10px;
+}
+.card p{
+    color: #636060;
+    font-size: 18px;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal; 
+}
+
+  
+  
+
+
+
+
+
