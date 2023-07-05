@@ -140,8 +140,9 @@ li a{
 }
 .card{
     width: 286px;
-    margin-bottom: 56px;
     margin: 0 10px;
+    margin-bottom: 56px;
+    
 }
 .card img {
     width: 100%;

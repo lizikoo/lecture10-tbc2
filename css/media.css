@@ -18,3 +18,28 @@
         display: inline-block;
     }
 }
+
+@media (max-width: 886px){
+    .section2flex{
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .infobox{
+        width:70%
+    }
+
+    .infobox h4, .infobox h3,.infobox p{
+        text-align: center;
+    }
+    .infobox{
+        margin-bottom: 20px;
+    }
+    
+}
+
+@media(max-width:1428px){
+    .section2flex{
+        margin-left: 30px;
+    }
+}
